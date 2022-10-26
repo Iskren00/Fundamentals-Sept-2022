@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem01", "Problem01\Problem01.csproj", "{557FB48C-8114-4499-BB97-8C721A85CAC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem02", "Problem02\Problem02.csproj", "{AB129776-AE30-4513-ABFE-D0A455D3DB92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem03", "Problem03\Problem03.csproj", "{125829A8-4ADA-4900-B056-A1CFF73B7843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{557FB48C-8114-4499-BB97-8C721A85CAC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557FB48C-8114-4499-BB97-8C721A85CAC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{557FB48C-8114-4499-BB97-8C721A85CAC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{557FB48C-8114-4499-BB97-8C721A85CAC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB129776-AE30-4513-ABFE-D0A455D3DB92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB129776-AE30-4513-ABFE-D0A455D3DB92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB129776-AE30-4513-ABFE-D0A455D3DB92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB129776-AE30-4513-ABFE-D0A455D3DB92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{125829A8-4ADA-4900-B056-A1CFF73B7843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{125829A8-4ADA-4900-B056-A1CFF73B7843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{125829A8-4ADA-4900-B056-A1CFF73B7843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{125829A8-4ADA-4900-B056-A1CFF73B7843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DA6ADC2-8E23-402C-91C3-61F3F40599D0}
+	EndGlobalSection
+EndGlobal
